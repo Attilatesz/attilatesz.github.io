@@ -1,0 +1,61 @@
+body{
+    background-image: url("topography.png")
+}
+
+h1, h2, h3{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+h1{
+    padding-top: 10%;
+}
+
+h2{
+    text-align: center;
+}
+
+.job{
+    color: #ff0099;
+}
+
+p{
+    font-family: consolas, courier;
+}
+
+a{
+    color: #ff0099;
+}
+
+li{
+    float: right;
+    padding: 8px 20px 5px;
+    font-size: 125%;
+}
+
+img{
+    padding: 5px 0px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0% 10%;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+main{
+    padding: 0% 10%;
+}
+
+.point{
+    font-size: 40px;
+    letter-spacing: 8px;
+    text-align: center;
+    padding: 25px;
+}
+
+.boxed{
+    background-color: #333;
+}
